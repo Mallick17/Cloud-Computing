@@ -4,12 +4,12 @@
   - For example, if your phone breaks, you can still access your Instagram account on a new phone with all your data. The same applies to cloud email services like Gmail and cloud storage like Google Drive.
 - For businesses, using the cloud reduces IT costs since they don’t need to maintain their own servers. Small businesses, in particular, benefit because they can afford cloud services instead of building their own infrastructure. The cloud also makes it easier for companies to work globally since employees and customers can access the same files and apps from anywhere.
 
-## How does cloud computing work? [Click to View Detailed Version](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/)
+### How does cloud computing work? [Click to View Detailed Version](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/)
 - Cloud computing works thanks to virtualization, which creates virtual computers that act like real ones. These "virtual machines" are separated from each other, so they don’t interfere with each other’s data, even if they share the same physical server.
 - Virtual machines allow one server to run many virtual servers, making better use of hardware. This lets cloud providers offer services to many customers at once, keeping costs low.
 - Cloud services are always available, as providers back up data on multiple machines and in different locations. Users can access the cloud via a browser or app from any device, connecting through the internet.
 
-## What are cloud services?
+# What are cloud services?
 The resources available in the cloud are known as "services," since they are actively managed by a cloud provider. Cloud services include infrastructure, applications, development tools, and data storage, among other products. These services are sorted into several different categories, or _service models_.
 
 ### What are the main service models of cloud computing?
@@ -42,7 +42,6 @@ PaaS gives you the platform and tools to develop your own applications without w
 - **Operating System:** PaaS providers give you an operating system to run your applications, so you don’t have to install or maintain it yourself. The operating system is managed by the platform, not you.
 
 ### **Infrastructure-as-a-Service (IaaS)**
-
 **What it is:**  
 With IaaS, you rent computing resources such as virtual machines, storage, and networking capabilities from a cloud provider. It's like leasing land where you can build whatever you want.
 
@@ -57,7 +56,6 @@ With IaaS, you rent computing resources such as virtual machines, storage, and n
 - **Operating System:** You install and maintain the operating system yourself. For example, you might use **Ubuntu Linux** or **Windows Server** on the virtual machines you rent.
 
 ### **Function-as-a-Service (FaaS)**
-
 **What it is:**  
 FaaS, or serverless computing, allows you to run small pieces of code in response to events without worrying about the infrastructure. The code is executed when needed, and you only pay for the time it runs.
 
@@ -72,8 +70,10 @@ FaaS, or serverless computing, allows you to run small pieces of code in respons
 - **Operating System:** You don’t manage an operating system in serverless computing. The cloud provider abstracts the infrastructure, so you don’t need to worry about what operating system or server your code is running on.
 
 ### **Comparison in a Nutshell:**
-
 - **SaaS:** You use software over the Internet (e.g., Google Docs). You don’t manage anything, just use the app.
 - **PaaS:** You build applications with provided tools and platforms (e.g., Heroku). The cloud provider handles most of the infrastructure.
 - **IaaS:** You rent servers and other resources to build your application (e.g., DigitalOcean). You manage everything, including the operating system.
 - **FaaS:** You write small functions that run in response to events (e.g., AWS Lambda). You don’t worry about servers or operating systems.
+
+# What is cloud infrastructure?
+Cloud infrastructure refers to the resources like collection of hardware and software components, including servers, storage, networking equipment, and virtualization software, that are used to deliver cloud computing services, allowing users to access computing resources like processing power, storage, and applications over the internet without the need to manage their own physical infrastructure needed for hosting and building applications in the cloud. 
