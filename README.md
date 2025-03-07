@@ -1,2 +1,5 @@
 # Cloud-Computing
-Concepts related to cloud computing, cloud models and types and other related resources.
+"The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers. Cloud servers are located in data centers(**A data center is a facility, housing many networked computers that work together to process, store, and share data.**) all over the world.
+- The cloud lets users access files and apps from almost any device because data is stored on remote servers, not on their own devices.
+  - For example, if your phone breaks, you can still access your Instagram account on a new phone with all your data. The same applies to cloud email services like Gmail and cloud storage like Google Drive.
+- For businesses, using the cloud reduces IT costs since they don’t need to maintain their own servers. Small businesses, in particular, benefit because they can afford cloud services instead of building their own infrastructure. The cloud also makes it easier for companies to work globally since employees and customers can access the same files and apps from anywhere.
