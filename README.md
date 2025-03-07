@@ -17,7 +17,6 @@ The resources available in the cloud are known as "services," since they are act
 
 ### **Software-as-a-Service (SaaS)**
 **What it is:**  
-
 SaaS is when you use software that is hosted on the cloud instead of installing it on your computer or server. It’s like renting software through the Internet.
 - **Analogy:** Think of it like renting an apartment. The landlord (the SaaS provider) is responsible for maintenance (e.g., updates, security), while you (the user) just enjoy using the apartment (the software).
 - **Example:**  
