@@ -180,14 +180,14 @@ A global e-commerce company may use AWS for its database services, Google Cloud 
 ---
 
 ### Summary Table
-
-| Cloud Type       | Key Advantage                  | Key Disadvantage           | Example                                |
-|------------------|---------------------------------|----------------------------|----------------------------------------|
-| **Private Cloud** | Enhanced security & control    | High cost & scalability limits | A bank managing sensitive data         |
-| **Public Cloud**  | Cost-effective & scalable       | Security & control concerns | A startup using AWS for hosting        |
-| **Hybrid Cloud**  | Flexibility & cost efficiency   | Complex management         | A healthcare provider with sensitive data |
-| **Community Cloud** | Shared resources & tailored needs | Limited to similar organizations | Health organizations sharing research data |
-| **Multi-Cloud**   | Avoid vendor lock-in & flexibility | Complex management & integration | Global e-commerce company with various cloud services |
+| Feature                | Public Cloud                          | Private Cloud          | Hybrid Cloud                                | Multi-Cloud                        | Community Cloud          |
+|------------------------|-------------------------------------|------------------------|---------------------------------------------|-------------------------------------|--------------------------|
+| **Owner**              | Cloud service provider              | Single organization    | Single organization and a cloud provider   | Cloud service providers            | Multiple organizations   |
+| **Management Complexity** | Easy                               | Professional IT team required | Professional IT team required | Medium + | Increased |
+| **Scalability & Flexibility** | High (almost unlimited) | Limited | Improved | High (almost unlimited) | Moderate |
+| **Security** | Medium - | Increased | Varies | High - | Medium |
+| **Reliability** | Medium + | High | High | High | Medium |
+| **Cost** | Low initial cost (mostly pay-as-you-go) | High cost | Cost-effective | Low cost (you can choose the cheapest services) | Lower cost |
 
 ---
 
