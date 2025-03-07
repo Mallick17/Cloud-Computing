@@ -26,3 +26,5 @@ SaaS is when you use software that is hosted on the cloud instead of installing 
 **Development Tools and Infrastructure in SaaS:**
 - You don’t need to worry about development tools or infrastructure (servers, databases). The SaaS provider takes care of all that for you.
 - **For Example:** When using Salesforce, you don’t manage the servers or the operating system. You just access and use the service.
+
+### **Platform-as-a-Service (PaaS)**
