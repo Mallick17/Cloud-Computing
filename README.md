@@ -79,6 +79,8 @@ FaaS, or serverless computing, allows you to run small pieces of code in respons
 Cloud infrastructure refers to the resources like collection of hardware and software components, including servers, storage, networking equipment, and virtualization software, that are used to deliver cloud computing services, allowing users to access computing resources like processing power, storage, and applications over the internet without the need to manage their own physical infrastructure needed for hosting and building applications in the cloud. 
 
 ## What are the different types of cloud deployments?
+![image](https://github.com/user-attachments/assets/fba3a9f0-b30f-4aa2-9cab-11b2b9b7446c)
+
 ### 1. **Private Cloud**
 
 **Description:**  
