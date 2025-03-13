@@ -26,6 +26,7 @@ SaaS is when you use software that is hosted on the cloud instead of installing 
 - **Example:**  
     - **Salesforce**: A cloud-based customer relationship management (CRM) tool. Instead of downloading Salesforce on your computer, you log into it from any device over the Internet.
     - **Slack**: A messaging platform where teams communicate. You don't install Slack on your computer permanently; you use it through your web browser.
+    - **_Other Examples Like: Big Commerece, Google Apps, Dropbox, ZenDesk, Cisco, WebEx & Go to Meeting._**
 
 **Development Tools and Infrastructure in SaaS:**
 - You don’t need to worry about development tools or infrastructure (servers, databases). The SaaS provider takes care of all that for you.
@@ -39,6 +40,7 @@ PaaS gives you the platform and tools to develop your own applications without w
 - **Example:**  
     - **Heroku**: It provides a platform to build web applications. Developers can focus on writing their code without worrying about setting up servers or managing databases.
     - **Microsoft Azure**: A cloud service that offers tools, programming environments, and infrastructure to build and deploy applications.
+    - **_Other Examples Like: AWS Elastic Beanstalk, Windows Azure, Force.com, Google App Engine, Apache Stratos, Megento Commerce Cloud & OpenShift._**
 
 **Development Tools and Infrastructure in PaaS:**
 - **Development Tools:** Tools like programming environments (IDEs), libraries, and frameworks are provided by the platform.
@@ -53,6 +55,7 @@ With IaaS, you rent computing resources such as virtual machines, storage, and n
 - **Example:**  
     - **Google Compute Engine**: A virtual machine service where you rent computing power. You can install whatever operating system you want (Linux, Windows, etc.) and configure it to your needs.
     - **DigitalOcean**: A cloud provider that allows developers to rent virtual machines, storage, and networking resources to host and build applications.
+    - **_Other Examples Like: Linode, AWS, Microsoft Azure, Rackspace & Cisco Metacloud._**
 
 **Development Tools and Infrastructure in IaaS:**
 - **Development Tools:** In this case, you’re responsible for choosing and setting up your development environment. You might use **Visual Studio Code** or **Eclipse** to write code, but the cloud provider only gives you the hardware and networking infrastructure to run your code.
